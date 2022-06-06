@@ -1,6 +1,8 @@
 # Roman Ostapenko
 
-## My Contact
+****
+
+## My Contacts
 
 ## About
 
@@ -12,4 +14,4 @@
 
 ## Education
 
-## Leval English
+## Level English
