@@ -1,5 +1,5 @@
 # Roman Ostapenko
-Developer and researcher
+Developer and researcher 
 ****
 
 ## My Contacts
@@ -29,10 +29,10 @@ Daughter is already 2 years old, and son is only 4 months old
 ## My expirience
 
 ## Education
-1) Udemy
-2) FreeCodeCamp
-3) RS School
-4) Free course youtube
+1) Udemy 
+2) FreeCodeCamp 
+3) RS School 
+4) Free course youtube 
 
 ## Level English
 Now A1, but learn A2-B1
