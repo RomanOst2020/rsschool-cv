@@ -1,26 +1,71 @@
 * {
     margin: 0;
-    top: 15px;
-    padding: 0px 15px;
+   
+    
     background-color:blanchedalmond;
+}
+body {
+    width: 900px;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    
+
 }
 
 h1 {
-    font-size: 25px;
+    font-size: 48px;
     text-transform: uppercase;
-    padding-left: 50px;
+    text-align: center;
+    padding-top: 15px;
 
 }
 
 .title {
-    font-size: 20px;
+    font-size: 36px;
     font-weight: 600;
     font-style: italic;
     padding-left: 50px;
+    text-align: center;
 }
 
 br {
     color: brown;
+}
+a {
+    text-decoration: none;
+}
+
+
+h2 {
+    font-size: 26px;
+    font-weight: 700;
+    color: mediumslateblue;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.about {
+    position: relative;
+    width: 800px;
+    margin: auto;
+    padding-top: 30px;
+
+
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+    margin: auto;
+    padding-top: 30px;
+    border-left: 1px;
+    
+
 }
 
 
